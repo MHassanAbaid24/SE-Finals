@@ -1,0 +1,7 @@
+*.py
+venv
+pdfs
+*.pptx
+*.docx
+*.md
+*.txt
